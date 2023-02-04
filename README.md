@@ -1,5 +1,5 @@
 # wordlistfilter
- Used to filter a wordlist to a new wordlist containing only specified length words.
+ Used to filter a wordlist to a new file containing only words of specified length.
 
 Example:
 
